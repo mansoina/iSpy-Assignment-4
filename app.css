@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .vault-container {
+    padding: 20px;
+  }
+}
+.isecure-vault-input {
+  width: 100%;
+  margin-bottom: 15px;
+}
